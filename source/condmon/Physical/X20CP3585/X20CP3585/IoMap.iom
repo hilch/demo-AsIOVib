@@ -1,0 +1,15 @@
+VAR_CONFIG
+	::rdbuf:fb.ioMapping.RequestBufferLock01 AT %QX."X20CM4810".RequestBufferLock01;
+	::rdbuf:fb.ioMapping.BufferLockValid01 AT %IX."X20CM4810".BufferLockValid01;
+	::rdbuf:fb.ioMapping.BufferInputSequence01 AT %IB."X20CM4810".BufferInputSequence01;
+	::rdbuf:fb.ioMapping.BufferRxByte01 AT %IB."X20CM4810".BufferRxByte01;
+	::rdbuf:fb.ioMapping.BufferRxByte02 AT %IB."X20CM4810".BufferRxByte02;
+	::rdbuf:fb.ioMapping.BufferRxByte03 AT %IB."X20CM4810".BufferRxByte03;
+	::rdbuf:fb.ioMapping.BufferRxByte04 AT %IB."X20CM4810".BufferRxByte04;
+	::rdbuf:fb.ioMapping.BufferRxByte05 AT %IB."X20CM4810".BufferRxByte05;
+	::rdbuf:fb.ioMapping.BufferOutputSequence01 AT %QB."X20CM4810".BufferOutputSequence01;
+	::rdbuf:fb.ioMapping.BufferTxByte01 AT %QB."X20CM4810".BufferTxByte01;
+	::rdbuf:fb.ioMapping.BufferTxByte02 AT %QB."X20CM4810".BufferTxByte02;
+	::rdbuf:fb.ioMapping.BufferTxByte03 AT %QB."X20CM4810".BufferTxByte03;
+	::rdbuf:fb.ioMapping.BufferTxByte03 AT %QB."X20CM4810".BufferTxByte04;
+END_VAR

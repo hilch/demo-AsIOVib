@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="4.3.5.113 SP"?>
+<TextGroup xmlns="http://br-automation.co.at/AS/VC/Project" Name="MpTeachUIText">
+  <Property Name="Description" Value="General page text for MpTeach"/>
+  <Property Name="Index" Value="2000"/>
+  <TextSnippets/>
+  <TextLayer LanguageId="en">
+    <Text ID="133785" Value="Generate program or point list"/>
+    <Text ID="133786" Value="Name"/>
+    <Text ID="133787" Value="Mode"/>
+    <Text ID="133788" Value="Data type"/>
+    <Text ID="133789" Value="Export"/>
+    <Text ID="133790" Value="Import"/>
+    <Text ID="133791" Value="PointName"/>
+    <Text ID="133799" Value="Move type"/>
+    <Text ID="133800" Value="Coordinate system"/>
+    <Text ID="133801" Value="Modify point"/>
+    <Text ID="133802" Value="Velocity"/>
+    <Text ID="133803" Value="Point Name"/>
+    <Text ID="133804" Value=""/>
+    <Text ID="133805" Value="MpTeachPointsUI"/>
+    <Text ID="133806" Value="Status"/>
+    <Text ID="133807" Value="Move Up"/>
+    <Text ID="133808" Value="Move Down"/>
+    <Text ID="133809" Value="Paste"/>
+    <Text ID="133810" Value="Copy"/>
+    <Text ID="133811" Value="Cut"/>
+    <Text ID="133890" Value="Add"/>
+    <Text ID="133891" Value="Insert"/>
+    <Text ID="133892" Value="Replace"/>
+    <Text ID="133893" Value="Delete"/>
+    <Text ID="133894" Value="Edit"/>
+    <Text ID="133895" Value="Export"/>
+    <Text ID="133896" Value="Import"/>
+    <Text ID="133897" Value="Generate"/>
+    <Text ID="133798" Value="Macro"/>
+    <Text ID="133797" Value="Position 6"/>
+    <Text ID="133796" Value="Position 5"/>
+    <Text ID="133795" Value="Position 4"/>
+    <Text ID="133794" Value="Position 3"/>
+    <Text ID="133793" Value="Position 2"/>
+    <Text ID="133792" Value="Position 1"/>
+    <Text ID="204357" Value="Format"/>
+  </TextLayer>
+  <TextLayer LanguageId="de">
+    <Text ID="133785" Value="Generieren Sie eine Programm oder Punktliste"/>
+    <Text ID="133786" Value="Name"/>
+    <Text ID="133787" Value="Mode"/>
+    <Text ID="133788" Value="Datentyp"/>
+    <Text ID="133789" Value="Export"/>
+    <Text ID="133790" Value="Import"/>
+    <Text ID="133791" Value="Punktname"/>
+    <Text ID="133799" Value="Bewegungstyp"/>
+    <Text ID="133800" Value="Koordinatensystem"/>
+    <Text ID="133801" Value="Punkt bearbeiten"/>
+    <Text ID="133802" Value="Geschwindigkeit"/>
+    <Text ID="133803" Value="Punktname"/>
+    <Text ID="133804" Value=""/>
+    <Text ID="133805" Value="MpTeachPointsUI"/>
+    <Text ID="133806" Value="Status"/>
+    <Text ID="133807" Value="Nach oben"/>
+    <Text ID="133808" Value="Nach unten"/>
+    <Text ID="133809" Value="Einfügen"/>
+    <Text ID="133810" Value="Kopieren"/>
+    <Text ID="133811" Value="Ausschneiden"/>
+    <Text ID="133890" Value="Hinzu fügen"/>
+    <Text ID="133891" Value="Ein fügen"/>
+    <Text ID="133892" Value="Ersetzen"/>
+    <Text ID="133893" Value="Löschen"/>
+    <Text ID="133894" Value="Bearbeiten"/>
+    <Text ID="133895" Value="Export"/>
+    <Text ID="133896" Value="Import"/>
+    <Text ID="133897" Value="Generieren"/>
+    <Text ID="133798" Value="Macro"/>
+    <Text ID="133797" Value="Position 6"/>
+    <Text ID="133796" Value="Position 5"/>
+    <Text ID="133795" Value="Position 4"/>
+    <Text ID="133794" Value="Position 3"/>
+    <Text ID="133793" Value="Position 2"/>
+    <Text ID="133792" Value="Position 1"/>
+    <Text ID="204357" Value="Format"/>
+  </TextLayer>
+  <IndexMap>
+    <Index ID="133785" Value="0"/>
+    <Index ID="133786" Value="1"/>
+    <Index ID="133787" Value="2"/>
+    <Index ID="133788" Value="3"/>
+    <Index ID="133789" Value="4"/>
+    <Index ID="133790" Value="5"/>
+    <Index ID="133791" Value="6"/>
+    <Index ID="133799" Value="14"/>
+    <Index ID="133800" Value="15"/>
+    <Index ID="133801" Value="16"/>
+    <Index ID="133802" Value="17"/>
+    <Index ID="133803" Value="18"/>
+    <Index ID="133804" Value="19"/>
+    <Index ID="133805" Value="20"/>
+    <Index ID="133806" Value="21"/>
+    <Index ID="133807" Value="22"/>
+    <Index ID="133808" Value="23"/>
+    <Index ID="133809" Value="26"/>
+    <Index ID="133810" Value="25"/>
+    <Index ID="133811" Value="24"/>
+    <Index ID="133890" Value="27"/>
+    <Index ID="133891" Value="28"/>
+    <Index ID="133892" Value="29"/>
+    <Index ID="133893" Value="30"/>
+    <Index ID="133894" Value="31"/>
+    <Index ID="133895" Value="32"/>
+    <Index ID="133896" Value="33"/>
+    <Index ID="133897" Value="34"/>
+    <Index ID="133798" Value="13"/>
+    <Index ID="133797" Value="12"/>
+    <Index ID="133796" Value="11"/>
+    <Index ID="133795" Value="10"/>
+    <Index ID="133794" Value="9"/>
+    <Index ID="133793" Value="8"/>
+    <Index ID="133792" Value="7"/>
+    <Index ID="204357" Value="35"/>
+  </IndexMap>
+</TextGroup>

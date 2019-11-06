@@ -1,0 +1,9 @@
+VAR
+	fb : vbioCtrlCM4810Ex1;
+	bufferUploadDuration : TIME;
+	cmdUploadBuffer : USINT;
+	cycleCounter : UDINT;
+	step : UINT;
+	rtinfo : RTInfo;
+	moduleData : CM4810_Data; (*allgemeine Parameterstruktur*)
+END_VAR

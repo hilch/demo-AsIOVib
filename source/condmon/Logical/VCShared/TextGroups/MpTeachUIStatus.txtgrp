@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="4.3.5.113 SP"?>
+<TextGroup xmlns="http://br-automation.co.at/AS/VC/Project" Name="MpTeachUIStatus">
+  <Property Name="Description" Value="Status text for TeachUI"/>
+  <Property Name="Index" Value="2003"/>
+  <TextSnippets/>
+  <TextLayer LanguageId="en">
+    <Text ID="138033" Value="IDLE"/>
+    <Text ID="138034" Value="WAITING CONFIRM"/>
+    <Text ID="138035" Value="ADD"/>
+    <Text ID="138036" Value="INSERT"/>
+    <Text ID="138037" Value="REPLACE"/>
+    <Text ID="138038" Value="COPY"/>
+    <Text ID="138039" Value="ERROR"/>
+    <Text ID="138040" Value="CUT"/>
+    <Text ID="138041" Value="PASTE"/>
+    <Text ID="138042" Value="MOVE UP"/>
+    <Text ID="138043" Value="MOVE DOWN"/>
+    <Text ID="138044" Value="GENERATE"/>
+    <Text ID="138045" Value="IMPORT"/>
+    <Text ID="138046" Value="EXPORT"/>
+  </TextLayer>
+  <TextLayer LanguageId="de">
+    <Text ID="138033" Value="IDLE"/>
+    <Text ID="138034" Value="WARTE KONFIRMATION"/>
+    <Text ID="138035" Value="ANFÜGEN"/>
+    <Text ID="138036" Value="EINFÜGEN"/>
+    <Text ID="138037" Value="ERSETZEN"/>
+    <Text ID="138038" Value="KOPIEREN"/>
+    <Text ID="138039" Value="FEHLER"/>
+    <Text ID="138040" Value="AUSSCHNEIDEN"/>
+    <Text ID="138041" Value="EINFÜGEN"/>
+    <Text ID="138042" Value="NACH OBEN"/>
+    <Text ID="138043" Value="NACH UNTEN"/>
+    <Text ID="138044" Value="GENERIEREN"/>
+    <Text ID="138045" Value="IMPORT"/>
+    <Text ID="138046" Value="EXPORT"/>
+  </TextLayer>
+  <IndexMap>
+    <Index ID="138033" Value="0"/>
+    <Index ID="138034" Value="1"/>
+    <Index ID="138035" Value="2"/>
+    <Index ID="138036" Value="3"/>
+    <Index ID="138037" Value="4"/>
+    <Index ID="138038" Value="5"/>
+    <Index ID="138039" Value="99"/>
+    <Index ID="138040" Value="6"/>
+    <Index ID="138041" Value="7"/>
+    <Index ID="138042" Value="8"/>
+    <Index ID="138043" Value="9"/>
+    <Index ID="138044" Value="10"/>
+    <Index ID="138045" Value="11"/>
+    <Index ID="138046" Value="12"/>
+  </IndexMap>
+</TextGroup>

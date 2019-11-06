@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="4.3.5.113 SP"?>
+<TextGroup xmlns="http://br-automation.co.at/AS/VC/Project" Name="MpTeachUIPointList">
+  <Property Name="Description" Value="Text snippets list of point names"/>
+  <Property Name="Index" Value="2001"/>
+  <TextSnippets>
+    <TextSnippet ClassId="0x00002002" Name="Point1">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[1].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point2">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[2].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point3">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[3].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point4">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[4].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point5">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[5].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point6">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[6].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point7">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[7].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point8">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[8].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point9">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[9].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point10">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[10].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point11">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[11].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point12">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[12].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point13">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[13].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point14">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[14].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point15">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[15].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point16">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[16].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point17">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[17].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point18">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[18].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point19">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[19].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+    <TextSnippet ClassId="0x00002002" Name="Point0">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.List.Point[0].Name]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+    </TextSnippet>
+  </TextSnippets>
+  <TextLayer LanguageId="en">
+    <Text ID="133696" Value="{Point0}"/>
+    <Text ID="133697" Value="{Point1}"/>
+    <Text ID="133698" Value="{Point2}"/>
+    <Text ID="133699" Value="{Point3}"/>
+    <Text ID="133898" Value="{Point4}"/>
+    <Text ID="133899" Value="{Point5}"/>
+    <Text ID="133900" Value="{Point6}"/>
+    <Text ID="133901" Value="{Point7}"/>
+    <Text ID="133902" Value="{Point8}"/>
+    <Text ID="133903" Value="{Point9}"/>
+    <Text ID="133904" Value="{Point10}"/>
+    <Text ID="133905" Value="{Point11}"/>
+    <Text ID="133906" Value="{Point12}"/>
+    <Text ID="133907" Value="{Point13}"/>
+    <Text ID="133908" Value="{Point14}"/>
+    <Text ID="133909" Value="{Point15}"/>
+    <Text ID="133910" Value="{Point16}"/>
+    <Text ID="133911" Value="{Point17}"/>
+    <Text ID="133912" Value="{Point18}"/>
+    <Text ID="133913" Value="{Point19}"/>
+  </TextLayer>
+  <TextLayer LanguageId="de">
+    <Text ID="133696" Value="{Point0}"/>
+    <Text ID="133697" Value="{Point1}"/>
+    <Text ID="133698" Value="{Point2}"/>
+    <Text ID="133699" Value="{Point3}"/>
+    <Text ID="133898" Value="{Point4}"/>
+    <Text ID="133899" Value="{Point5}"/>
+    <Text ID="133900" Value="{Point6}"/>
+    <Text ID="133901" Value="{Point7}"/>
+    <Text ID="133902" Value="{Point8}"/>
+    <Text ID="133903" Value="{Point9}"/>
+    <Text ID="133904" Value="{Point10} "/>
+    <Text ID="133905" Value="{Point11} "/>
+    <Text ID="133906" Value="{Point12}"/>
+    <Text ID="133907" Value="{Point13}"/>
+    <Text ID="133908" Value="{Point14}"/>
+    <Text ID="133909" Value="{Point15}"/>
+    <Text ID="133910" Value="{Point16}"/>
+    <Text ID="133911" Value="{Point17}"/>
+    <Text ID="133912" Value="{Point18}"/>
+    <Text ID="133913" Value="{Point19}"/>
+  </TextLayer>
+  <IndexMap>
+    <Index ID="133696" Value="0"/>
+    <Index ID="133697" Value="1"/>
+    <Index ID="133698" Value="2"/>
+    <Index ID="133699" Value="3"/>
+    <Index ID="133898" Value="4"/>
+    <Index ID="133899" Value="5"/>
+    <Index ID="133900" Value="6"/>
+    <Index ID="133901" Value="7"/>
+    <Index ID="133902" Value="8"/>
+    <Index ID="133903" Value="9"/>
+    <Index ID="133904" Value="10"/>
+    <Index ID="133905" Value="11"/>
+    <Index ID="133906" Value="12"/>
+    <Index ID="133907" Value="13"/>
+    <Index ID="133908" Value="14"/>
+    <Index ID="133909" Value="15"/>
+    <Index ID="133910" Value="16"/>
+    <Index ID="133911" Value="17"/>
+    <Index ID="133912" Value="18"/>
+    <Index ID="133913" Value="19"/>
+  </IndexMap>
+</TextGroup>

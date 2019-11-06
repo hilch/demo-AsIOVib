@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.3.4.121 SP?>
+<Library Description="This library allows to access data of CM4810 modules." xmlns="http://br-automation.co.at/AS/Library">
+  <Files>
+    <File>AsIOVib.fun</File>
+    <File>AsIOVib.typ</File>
+    <File>AsIOVib.var</File>
+  </Files>
+  <Dependencies>
+    <Dependency ObjectName="AsFltGen" />
+    <Dependency ObjectName="brsystem" />
+    <Dependency ObjectName="sys_lib" />
+    <Dependency ObjectName="AsIOAcc" />
+  </Dependencies>
+</Library>

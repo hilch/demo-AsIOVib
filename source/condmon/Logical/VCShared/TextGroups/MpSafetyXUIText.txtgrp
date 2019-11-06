@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="4.3.5.113 SP"?>
+<TextGroup xmlns="http://br-automation.co.at/AS/VC/Project" Name="MpSafetyXUIText">
+  <Property Name="Description" Value="General page text for MpSafetyX"/>
+  <Property Name="Index" Value="2121"/>
+  <TextSnippets/>
+  <TextLayer LanguageId="en">
+    <Text ID="181187" Value="Refresh"/>
+    <Text ID="181188" Value="Send"/>
+    <Text ID="181189" Value="Acknowledge"/>
+    <Text ID="181190" Value="Cancel"/>
+    <Text ID="181191" Value="MpSafetyX"/>
+    <Text ID="181192" Value="MpSafetyOption"/>
+    <Text ID="181193" Value="Operating mode"/>
+    <Text ID="181194" Value="SafeLOGIC response"/>
+    <Text ID="181195" Value="New setting"/>
+    <Text ID="181196" Value="Acknowledge"/>
+    <Text ID="181197" Value="Waiting for response"/>
+    <Text ID="181198" Value="Error"/>
+    <Text ID="181199" Value="Option"/>
+    <Text ID="181200" Value="MpSafetyXOptionBoolUI"/>
+    <Text ID="181201" Value="MpSafetyXOptionUI"/>
+    <Text ID="181202" Value="MpSafetyXOptionIntUI"/>
+    <Text ID="181203" Value="Time-out - no acknowledge within 60 seconds"/>
+  </TextLayer>
+  <TextLayer LanguageId="de">
+    <Text ID="181187" Value="Refresh"/>
+    <Text ID="181188" Value="Senden"/>
+    <Text ID="181189" Value="Bestätigung"/>
+    <Text ID="181190" Value="Abbruch"/>
+    <Text ID="181191" Value="MpSafetyX"/>
+    <Text ID="181192" Value="MpSafetyOption"/>
+    <Text ID="181193" Value="Betriebsart"/>
+    <Text ID="181194" Value="SafeLOGIC Antwort"/>
+    <Text ID="181195" Value="Neue Einstellung"/>
+    <Text ID="181196" Value="Bestätigung"/>
+    <Text ID="181197" Value="Auf Antwort warten"/>
+    <Text ID="181198" Value="Fehler"/>
+    <Text ID="181199" Value="Option"/>
+    <Text ID="181200" Value="MpSafetyXOptionBoolUI"/>
+    <Text ID="181201" Value="MpSafetyXOptionUI"/>
+    <Text ID="181202" Value="MpSafetyXOptionIntUI"/>
+    <Text ID="181203" Value="Zeitüberschreitung - keine Bestätigung innerhalb von 60 Sekunden"/>
+  </TextLayer>
+  <IndexMap>
+    <Index ID="181187" Value="0"/>
+    <Index ID="181188" Value="1"/>
+    <Index ID="181189" Value="2"/>
+    <Index ID="181190" Value="4"/>
+    <Index ID="181191" Value="5"/>
+    <Index ID="181192" Value="6"/>
+    <Index ID="181193" Value="7"/>
+    <Index ID="181194" Value="8"/>
+    <Index ID="181195" Value="9"/>
+    <Index ID="181196" Value="10"/>
+    <Index ID="181197" Value="11"/>
+    <Index ID="181198" Value="12"/>
+    <Index ID="181199" Value="3"/>
+    <Index ID="181200" Value="13"/>
+    <Index ID="181201" Value="14"/>
+    <Index ID="181202" Value="15"/>
+    <Index ID="181203" Value="16"/>
+  </IndexMap>
+</TextGroup>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.6.3.55?>
+<Hardware xmlns="http://br-automation.co.at/AS/Hardware">
+  <Module Name="X20BM31" Type="X20BM31" Version="1.0.0.1">
+    <Connection Connector="X2X1" TargetModule="X20CP3585" TargetConnector="IF6" />
+  </Module>
+  <Module Name="X20CM4810" Type="X20CM4810" Version="1.4.4.0">
+    <Connection Connector="SS1" TargetModule="X20TB12" TargetConnector="SS" />
+    <Connection Connector="SL" TargetModule="X20BM31" TargetConnector="SL1" />
+    <Parameter ID="Supervision" Value="off" />
+    <Parameter ID="Current01" Value="on" />
+    <Parameter ID="FrequencyBandEnable01" Value="off" />
+    <Parameter ID="FrequencyBandEnable02" Value="off" />
+    <Parameter ID="FrequencyBandEnable03" Value="off" />
+    <Parameter ID="FrequencyBandEnable09" Value="off" />
+    <Parameter ID="FrequencyBandEnable10" Value="off" />
+    <Parameter ID="FrequencyBandEnable11" Value="off" />
+    <Parameter ID="FrequencyBandEnable17" Value="off" />
+    <Parameter ID="FrequencyBandEnable18" Value="off" />
+    <Parameter ID="FrequencyBandEnable19" Value="off" />
+    <Parameter ID="FrequencyBandEnable25" Value="off" />
+    <Parameter ID="FrequencyBandEnable26" Value="off" />
+    <Parameter ID="FrequencyBandEnable27" Value="off" />
+  </Module>
+  <Module Name="X20CP3585" Type="X20CP3585" Version="1.5.0.0">
+    <Connector Name="IF2">
+      <Parameter ID="ActivateDevice" Value="1" />
+      <Parameter ID="HostName" Value="conmon" />
+      <Parameter ID="Mode" Value="Manual" />
+      <Parameter ID="InternetAddress" Value="192.168.0.34" />
+      <Parameter ID="SubnetMask" Value="255.255.255.0" />
+    </Connector>
+    <Connector Name="IF6">
+      <Parameter ID="CycleTime" Value="1000" />
+      <Parameter ID="Stations" Value="16" />
+      <Parameter ID="AsyncPayload" Value="160" />
+      <Parameter ID="OutputJustInTime" Value="off" />
+    </Connector>
+    <Parameter ID="ConfigurationID" Value="firstStart_X20CP3585" />
+    <Parameter ID="Cyclic1Duration" Value="1000" />
+    <Parameter ID="Cyclic1Tolerance" Value="1000" />
+    <Group ID="FileDevice1" />
+    <Parameter ID="FileDeviceName1" Value="HD" />
+    <Parameter ID="FileDevicePath1" Value="F:\" />
+    <Group ID="FtpUser1" />
+    <Parameter ID="FtpUsername1" Value="user" />
+    <Parameter ID="FtpUserPassword1" Value="IKmmIU0UA42VIUZbb7SMTTmDelvdeU0oRhYqfrVB1tM=" />
+    <Parameter ID="FtpUserSalt1" Value="73ZO5cbR" />
+    <Parameter ID="FTPAccessRight1" Value="0" />
+  </Module>
+  <Module Name="X20TB12" Type="X20TB12" Version="1.0.0.0" />
+</Hardware>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="4.3.5.113 SP"?>
+<TextGroup xmlns="http://br-automation.co.at/AS/VC/Project" Name="MpTeachDialogHeader">
+  <Property Name="Description" Value="Message box headertext for UserUI"/>
+  <Property Name="Index" Value="2005"/>
+  <TextSnippets/>
+  <TextLayer LanguageId="en">
+    <Text ID="133711" Value="Error"/>
+    <Text ID="133712" Value="Delete User"/>
+    <Text ID="133713" Value=""/>
+    <Text ID="133714" Value=""/>
+    <Text ID="133715" Value=""/>
+    <Text ID="133716" Value="Add"/>
+    <Text ID="133717" Value="Insert"/>
+    <Text ID="133718" Value="Replace"/>
+    <Text ID="133719" Value="Modify"/>
+    <Text ID="133720" Value="Import"/>
+    <Text ID="133721" Value="Export"/>
+  </TextLayer>
+  <TextLayer LanguageId="de">
+    <Text ID="133711" Value="Fehler"/>
+    <Text ID="133712" Value="Anwender Löschen"/>
+    <Text ID="133713" Value=""/>
+    <Text ID="133714" Value=""/>
+    <Text ID="133715" Value=""/>
+    <Text ID="133716" Value=""/>
+    <Text ID="133717" Value=""/>
+    <Text ID="133718" Value=""/>
+    <Text ID="133719" Value=""/>
+    <Text ID="133720" Value=""/>
+    <Text ID="133721" Value=""/>
+  </TextLayer>
+  <IndexMap>
+    <Index ID="133711" Value="1"/>
+    <Index ID="133712" Value="2"/>
+    <Index ID="133713" Value="0"/>
+    <Index ID="133714" Value="10"/>
+    <Index ID="133715" Value="22"/>
+    <Index ID="133716" Value="11"/>
+    <Index ID="133717" Value="12"/>
+    <Index ID="133718" Value="13"/>
+    <Index ID="133719" Value="14"/>
+    <Index ID="133720" Value="21"/>
+    <Index ID="133721" Value="20"/>
+  </IndexMap>
+</TextGroup>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="4.3.5.113 SP"?>
+<TextGroup xmlns="http://br-automation.co.at/AS/VC/Project" Name="MpTeachUIErrorText">
+  <Property Name="Description" Value="Error text for TeachUI"/>
+  <Property Name="Index" Value="2006"/>
+  <TextSnippets/>
+  <TextLayer LanguageId="en">
+    <Text ID="146207" Value="Error in generating list of points"/>
+    <Text ID="146208" Value="Error in generating program"/>
+    <Text ID="146209" Value="Invalid file device"/>
+    <Text ID="146210" Value="Empty name specified as point list/program"/>
+    <Text ID="146211" Value="Waiting for CNC/Robot component to be active"/>
+    <Text ID="146212" Value="Error loading the import file"/>
+    <Text ID="146213" Value="Import failed"/>
+    <Text ID="146214" Value="No point selected for operation"/>
+    <Text ID="146215" Value="Unknown/invalid macro used for a point"/>
+    <Text ID="146216" Value="Error saving export file"/>
+    <Text ID="146217" Value="No points defined in point list"/>
+    <Text ID="146218" Value="Nothing to paste in clipboard"/>
+  </TextLayer>
+  <TextLayer LanguageId="de">
+    <Text ID="146207" Value="Fehler beim erzeugen der Punktliste"/>
+    <Text ID="146208" Value="Fehler beim erzeugen des Programs"/>
+    <Text ID="146209" Value="UngültigerDateispeicher"/>
+    <Text ID="146210" Value="Lerer Name als Punktliste / Programm angegeben "/>
+    <Text ID="146211" Value="Warten auf CNC / Roboter-Komponente"/>
+    <Text ID="146212" Value="Fehler beim Laden der Importdatei\"/>
+    <Text ID="146213" Value="Import fehlgeschlagen"/>
+    <Text ID="146214" Value="Kein Punkt für den Anwendung ausgewählt"/>
+    <Text ID="146215" Value="Unbekanntes / ungültigen Makro für einen Punkt verwendet"/>
+    <Text ID="146216" Value="Fehler beim Speichern der Exportdatei"/>
+    <Text ID="146217" Value="Keine Punkte in Punktliste definiert"/>
+    <Text ID="146218" Value="Keine Daten zum einfügen in der Zwischenablage "/>
+  </TextLayer>
+  <IndexMap>
+    <Index ID="146207" Value="37377"/>
+    <Index ID="146208" Value="37378"/>
+    <Index ID="146209" Value="37379"/>
+    <Index ID="146210" Value="37380"/>
+    <Index ID="146211" Value="37381"/>
+    <Index ID="146212" Value="37385"/>
+    <Index ID="146213" Value="37384"/>
+    <Index ID="146214" Value="37383"/>
+    <Index ID="146215" Value="37382"/>
+    <Index ID="146216" Value="37386"/>
+    <Index ID="146217" Value="37387"/>
+    <Index ID="146218" Value="37388"/>
+  </IndexMap>
+</TextGroup>

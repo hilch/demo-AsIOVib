@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="4.3.5.113 SP"?>
+<TextGroup xmlns="http://br-automation.co.at/AS/VC/Project" Name="MpTeachUIMessageBox">
+  <Property Name="Description" Value="Messagebox text for TeachUI"/>
+  <Property Name="Index" Value="2007"/>
+  <TextSnippets>
+    <TextSnippet ClassId="0x00002004" Name="Error">
+      <Property Name="Alignment" Value="Left"/>
+      <Property Name="Datapoint" Value="Source[global].Variable[DataSource.MpTeachPointUIConnect.MessageBox.ErrorNumber]"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="FillCharacter" Value=""/>
+      <Property Name="MaxChars" Value="None"/>
+      <Property Name="MinChars" Value="None"/>
+      <Property Name="TextGroup" Value="Source[global].TextGroup[MpTeachUIErrorText]"/>
+      <Property Name="TextIndexOffset" Value="0"/>
+    </TextSnippet>
+  </TextSnippets>
+  <TextLayer LanguageId="en">
+    <Text ID="146221" Value="{Error}"/>
+    <Text ID="146222" Value="Do you really want to remove the point?"/>
+  </TextLayer>
+  <TextLayer LanguageId="de">
+    <Text ID="146221" Value="{Error}"/>
+    <Text ID="146222" Value="Möchten sie den Punkt wirklich löschen?"/>
+  </TextLayer>
+  <IndexMap>
+    <Index ID="146221" Value="1"/>
+    <Index ID="146222" Value="2"/>
+  </IndexMap>
+</TextGroup>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<BR.AS.HardwareTopology Version="0.0.0.1">
+  <Modules>
+    <Module Name="X20BM31" Type="X20BM31" X="300" Y="100" />
+    <Module Name="X20CM4810" Type="X20CM4810" X="300" Y="100" />
+    <Module Name="X20TB12" Type="X20TB12" X="313" Y="127" />
+    <Module Name="X20CP3585" Type="X20CP3585" X="100" Y="100" />
+  </Modules>
+  <Links />
+  <InfoElements />
+</BR.AS.HardwareTopology>
