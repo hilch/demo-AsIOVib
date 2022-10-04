@@ -1,5 +1,5 @@
-# demo-AsIOVib
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# demo-AsIOVib [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Made For B&R](https://github.com/hilch/BandR-badges/blob/main/Made-For-BrAutomation.svg)](https://www.br-automation.com)
+
 demo for B&amp;R - Automation Studio Library AsIOVib
 
 shows how to upload raw data from [X20CM4810](https://www.br-automation.com/en/products/control-systems/x20-system/other-functions/x20cm4810/) condition monitoring module.
